@@ -62,7 +62,7 @@ I enjoy transforming ideas into real-world digital experiences using clean code 
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=joygoswaminiloy2023-droid&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=joygoswaminiloy2023-droid&layout=compact&theme=tokyonight&exclude_repo=Software-Engineering-and-System-Analysis-Project&hide=php" />
 </p>
 
 <p align="center">
