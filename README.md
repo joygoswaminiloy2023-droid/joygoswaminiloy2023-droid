@@ -3,8 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F39F6,100:9514FA&height=200&section=header&text=Joy%20Goswami%20Niloy&fontSize=35&fontColor=ffffff" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Joy Goswami Niloy</h1>
-<h3 align="center">Frontend Developer | Building Modern Web Experiences</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=9514FA&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Joy+Goswami+Niloy;Frontend+Developer;Building+Modern+Web+Experiences" alt="Typing SVG" />
+</h1>
+
 <h4 align="center">Where logic meets design, and ideas become reality.</h4>
 
 <!-- GIF -->
@@ -38,10 +40,10 @@ I enjoy transforming ideas into real-world digital experiences using clean code 
 
 <p align="center">
 <a href="https://linkedin.com/in/joy-goswami" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
 <a href="mailto:joygoswaminiloy2023@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40" />
+<img src="https://skillicons.dev/icons?i=gmail" height="45" />
 </a>
 </p>
 
@@ -73,7 +75,7 @@ I enjoy transforming ideas into real-world digital experiences using clean code 
 
 ## 🌍 Portfolio
 
-🔗 https://joy-of-development.netlify.app/
+🔗 [https://joy-of-development.netlify.app/](https://joy-of-development.netlify.app/)
 
 ---
 
