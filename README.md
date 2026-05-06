@@ -60,11 +60,11 @@ I enjoy transforming ideas into real-world digital experiences using clean code 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joygoswaminiloy2023-droid&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=joygoswaminiloy2023-droid&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joygoswaminiloy2023-droid&layout=compact&theme=tokyonight&hide=php&langs_count=8&cache_seconds=1800" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joygoswaminiloy2023-droid&layout=compact&theme=tokyonight&hide=php&langs_count=8" />
 </p>
 
 <p align="center">
