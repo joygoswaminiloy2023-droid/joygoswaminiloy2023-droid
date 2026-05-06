@@ -51,9 +51,11 @@ I enjoy transforming ideas into real-world digital experiences using clean code 
 
 ## 🛠️ Languages and Tools
 
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,github,java,php,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,github,java,php,c,cpp,mongodb,nodejs" />
 </p>
+
 
 ---
 
