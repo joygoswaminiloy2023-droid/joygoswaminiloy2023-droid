@@ -48,23 +48,23 @@ I'm a **MERN Stack Developer** passionate about building end-to-end web applicat
 
 ## 📊 GitHub Analytics
 
-<!-- Stats Cards - Fixed URLs -->
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=joygoswaminiloy2023-droid&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+  <!-- Stats Card - Alternative Server -->
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joygoswaminiloy2023-droid&theme=radical" alt="GitHub Stats" />
+  
+  <!-- Streak Stats - Always Reliable -->
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=joygoswaminiloy2023-droid&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </p>
 
-<!-- Top Languages - Fixed with custom theme -->
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joygoswaminiloy2023-droid&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=10&hide=php,css" alt="Top Languages" />
-  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=joygoswaminiloy2023-droid&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophy" />
+  <!-- Top Languages - Working Server -->
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joygoswaminiloy2023-droid&theme=radical" alt="Top Languages" />
+  
+  <!-- Activity Graph -->
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=joygoswaminiloy2023-droid&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="Activity Graph" />
 </p>
-
-<!-- Alternative stats using GitHub Readme Activity Graph -->
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=joygoswaminiloy2023-droid&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="Activity Graph" />
-</p>
-
 <!-- Detailed Stats Table (Fallback) -->
 <details>
 <summary>📈 Click to view detailed statistics</summary>
