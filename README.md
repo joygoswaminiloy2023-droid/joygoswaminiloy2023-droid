@@ -113,18 +113,7 @@ I'm a **MERN Stack Developer** passionate about building end-to-end web applicat
 
 ---
 
-## 📈 GitHub Metrics
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joygoswaminiloy2023-droid&theme=radical" width="95%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joygoswaminiloy2023-droid&theme=radical" width="47%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joygoswaminiloy2023-droid&theme=radical" width="47%" />
-</p>
-
----
 
 ## 🧠 Fun Fact
 
