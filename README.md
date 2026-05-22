@@ -10,9 +10,9 @@
 
 <h4 align="center">Full-stack magic with MongoDB, Express, React, and Node.js — crafting seamless digital experiences.</h4>
 
-<!-- GIF -->
+<!-- Boy Developer GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" />
 </p>
 
 <p align="center">
@@ -46,6 +46,37 @@ I'm a **MERN Stack Developer** passionate about building end-to-end web applicat
 
 ---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=joygoswaminiloy2023-droid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=joygoswaminiloy2023-droid&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joygoswaminiloy2023-droid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8&hide=php" alt="Top Languages" />
+  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=joygoswaminiloy2023-droid&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub Trophy" />
+</p>
+
+<!-- Manual Stats Display (if images don't load) -->
+<details>
+<summary>📈 Click to view detailed stats</summary>
+<br>
+
+| Metric | Value |
+|--------|-------|
+| 🎯 Total Contributions | 452+ |
+| 🔥 Current Streak | 8 days |
+| ⭐ Longest Streak | 9 days |
+| 💻 Commits | 419 |
+| 📦 Repositories | 28 |
+| 👥 Followers | 4 |
+| 🔀 Pull Requests | 4 |
+
+</details>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -70,20 +101,6 @@ I'm a **MERN Stack Developer** passionate about building end-to-end web applicat
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=joygoswaminiloy2023-droid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=joygoswaminiloy2023-droid&theme=tokyonight&hide_border=true&background=0d1117" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joygoswaminiloy2023-droid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8&hide=php" />
-  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=joygoswaminiloy2023-droid&theme=tokyonight&no-frame=true&row=2&column=4" />
-</p>
-
----
-
 ## 🧠 Fun Fact
 
 When I'm not coding, I'm probably exploring new tech, contributing to open source, or designing UI components in Figma.  
@@ -101,7 +118,7 @@ I believe the best code is readable, reusable, and responsible.
 ## 🙏 Thank You
 
 Thanks for stopping by! I'm always open to collaborations, tech talks, or just nerding out over JavaScript.  
-Let’s build something amazing together — one commit at a time. 🚀
+Let's build something amazing together — one commit at a time. 🚀
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer" />
