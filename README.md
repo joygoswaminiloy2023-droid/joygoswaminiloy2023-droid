@@ -48,19 +48,26 @@ I'm a **MERN Stack Developer** passionate about building end-to-end web applicat
 
 ## 📊 GitHub Analytics
 
+<!-- Stats Cards - Fixed URLs -->
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=joygoswaminiloy2023-droid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=joygoswaminiloy2023-droid&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=joygoswaminiloy2023-droid&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=joygoswaminiloy2023-droid&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </p>
 
+<!-- Top Languages - Fixed with custom theme -->
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joygoswaminiloy2023-droid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8&hide=php" alt="Top Languages" />
-  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=joygoswaminiloy2023-droid&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub Trophy" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joygoswaminiloy2023-droid&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=10&hide=php,css" alt="Top Languages" />
+  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=joygoswaminiloy2023-droid&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophy" />
 </p>
 
-<!-- Manual Stats Display (if images don't load) -->
+<!-- Alternative stats using GitHub Readme Activity Graph -->
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=joygoswaminiloy2023-droid&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+
+<!-- Detailed Stats Table (Fallback) -->
 <details>
-<summary>📈 Click to view detailed stats</summary>
+<summary>📈 Click to view detailed statistics</summary>
 <br>
 
 | Metric | Value |
@@ -68,12 +75,29 @@ I'm a **MERN Stack Developer** passionate about building end-to-end web applicat
 | 🎯 Total Contributions | 452+ |
 | 🔥 Current Streak | 8 days |
 | ⭐ Longest Streak | 9 days |
-| 💻 Commits | 419 |
+| 💻 Commits (Hyper Contributor) | 419 pts |
 | 📦 Repositories | 28 |
 | 👥 Followers | 4 |
-| 🔀 Pull Requests | 4 |
+| 🔀 Pull Requests | 4 pts |
+| 🏆 Experience Level | Intermediate |
+
+**Top Languages (Estimated):**
+- JavaScript/TypeScript
+- HTML/CSS
+- Java
+- C/C++
+- PHP
 
 </details>
+
+---
+
+## 🎯 Wakatime Stats (Optional)
+
+<!-- If you use Wakatime, uncomment this -->
+<!-- <p align="center">
+  <img src="https://wakatime.com/share/@joygoswaminiloy2023-droid/5f3a9c2e-8b4d-4a7e-9c1d-3e5f7a9b2c4d.svg" width="400" />
+</p> -->
 
 ---
 
@@ -96,7 +120,20 @@ I'm a **MERN Stack Developer** passionate about building end-to-end web applicat
 ## 🛠️ MERN Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,ts,nextjs,tailwind,redux,git,github,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,ts,nextjs,tailwind,redux,git,github,vscode,postman,figma,java,py" />
+</p>
+
+---
+
+## 📈 GitHub Metrics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joygoswaminiloy2023-droid&theme=radical" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joygoswaminiloy2023-droid&theme=radical" width="47%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joygoswaminiloy2023-droid&theme=radical" width="47%" />
 </p>
 
 ---
