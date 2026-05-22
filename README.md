@@ -97,9 +97,9 @@ I'm a **MERN Stack Developer** passionate about building end-to-end web applicat
   <a href="https://linkedin.com/in/joy-goswami" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:joygoswaminiloy2023@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+ <a href="mailto:joygoswaminiloy2023@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
   <a href="https://joy-of-development.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
@@ -135,12 +135,7 @@ I believe the best code is readable, reusable, and responsible.
 
 ---
 
-## 🌍 My Portfolio
 
-🔗 [**joy-of-development.netlify.app**](https://joy-of-development.netlify.app/)  
-*Check out my latest MERN projects and case studies.*
-
----
 
 ## 🙏 Thank You
 
