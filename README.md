@@ -97,7 +97,7 @@ I'm a **MERN Stack Developer** passionate about building end-to-end web applicat
   <a href="https://linkedin.com/in/joy-goswami" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
- <a href="mailto:joygoswaminiloy2023@gmail.com" target="_blank">
+ <a href="/joygoswaminiloy2023@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
   <a href="https://joy-of-development.netlify.app/" target="_blank">
