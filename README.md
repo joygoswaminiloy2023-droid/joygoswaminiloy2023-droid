@@ -90,14 +90,6 @@ I'm a **MERN Stack Developer** passionate about building end-to-end web applicat
 
 ---
 
-## 🎯 Wakatime Stats (Optional)
-
-<!-- If you use Wakatime, uncomment this -->
-<!-- <p align="center">
-  <img src="https://wakatime.com/share/@joygoswaminiloy2023-droid/5f3a9c2e-8b4d-4a7e-9c1d-3e5f7a9b2c4d.svg" width="400" />
-</p> -->
-
----
 
 ## 🌐 Connect With Me
 
