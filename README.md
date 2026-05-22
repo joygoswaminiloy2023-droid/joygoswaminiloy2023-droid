@@ -48,8 +48,6 @@ I'm a **MERN Stack Developer** passionate about building end-to-end web applicat
 
 ## 📊 GitHub Analytics
 
-## 📊 GitHub Analytics
-
 <p align="center">
   <!-- Stats Card - Alternative Server -->
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joygoswaminiloy2023-droid&theme=radical" alt="GitHub Stats" />
