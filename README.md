@@ -27,30 +27,4 @@ Turning ☕ coffee into scalable MERN stack applications.
 </p>
 
 ---
-
-# 🚀 About Me
-
-```js
-const joy = {
-  name: "Joy Goswami Niloy",
-  role: "MERN Stack Developer",
-  
-  frontend: [
-    "React.js",
-    "Next.js",
-    "Tailwind CSS",
-    "JavaScript"
-  ],
-
-  backend: [
-    "Node.js",
-    "Express.js",
-    "MongoDB"
-  ],
-
-  currentlyLearning: "Advanced Next.js & Backend Architecture",
-
-  passion: "Building fast, scalable & user-friendly web apps",
-
-  funFact: "My code works perfectly... until someone watches me 👀"
-};
+## 🧑‍💻 About Me I’m a passionate frontend developer who loves building modern, responsive, and user-friendly web applications. I enjoy transforming ideas into real-world digital experiences using clean code and efficient design. --- ## 🚀 Current Activities - 🔭 Working on **MediScan (AI-powered medical report insights tool)** - 🌱 Currently exploring **Next.js** - ⚡ Building responsive UI using **React & Tailwind CSS** - 💡 Improving skills in **API integration & performance optimization** --- ## 🌐 Connect With Me <p align="center"> <a href="https://linkedin.com/in/joy-goswami" target="blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="45" /> </a> <a href="mailto:joygoswaminiloy2023@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="45" /> </a> </p> --- ## 🛠️ Languages and Tools <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,github,java,php,c,cpp,mongodb,nodejs" /> </p> --- ## 📊 GitHub Stats <p align="center"> <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=joygoswaminiloy2023-droid&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joygoswaminiloy2023-droid&layout=compact&theme=tokyonight&hide=php&langs_count=8" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=joygoswaminiloy2023-droid&theme=tokyonight&cache_seconds=1800" /> </p> --- ## 🌍 Portfolio 🔗 [https://joy-of-development.netlify.app/](https://joy-of-development.netlify.app/) --- ## 🙏 Thank You Thank you for taking the time to visit my GitHub profile. I appreciate your interest in my work. Let’s connect and build something amazing together! 🚀 make this uniqe and i am an MERN STACK DEVELOPER and make the giff funny
