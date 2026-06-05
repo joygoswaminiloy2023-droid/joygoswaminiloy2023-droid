@@ -66,13 +66,13 @@ const joy = {
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joygoswaminiloy2023-droid&theme=tokyonight" width="32%" alt="Stats" />
- <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=joygoswaminiloy2023-droid&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
- <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joygoswaminiloy2023-droid&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joygoswaminiloy2023-droid&theme=react-dark&bg_color=0d1117" width="32%" alt="Stats" />
+ <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=joygoswaminiloy2023-droid&theme=react-dark&hide_border=true&bg_color=0d1117" alt="GitHub Streak" />
+ <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joygoswaminiloy2023-droid&theme=react-dark&bg_color=0d1117" alt="Top Languages" />
 </p>
 
 <p align="center">
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joygoswaminiloy2023-droid&theme=radical" alt="GitHub Stats" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joygoswaminiloy2023-droid&theme=react-dark&bg_color=0d1117" alt="GitHub Stats" />
 </p>
 
 <details>
