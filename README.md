@@ -81,16 +81,6 @@ const joy = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joygoswaminiloy2023-droid&theme=tokyonight" width="98%" alt="Profile Details" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joygoswaminiloy2023-droid&theme=tokyonight" width="32%" alt="Stats" />
-  <img src="https://github-readme-streak-stats-six.vercel.app?user=joygoswaminiloy2023-droid&theme=tokyonight&hide_border=true&background=0D1117&ring=00C9FF&fire=92FE9D&currStreakLabel=00C9FF&sideLabels=ffffff&dates=aaaaaa" width="32%" alt="Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joygoswaminiloy2023-droid&theme=tokyonight" width="32%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joygoswaminiloy2023-droid&theme=tokyonight" width="49%" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joygoswaminiloy2023-droid&theme=tokyonight&utcOffset=6" width="49%" alt="Productive Time" />
-</p>
 <details>
 <summary>📈 Click to view detailed statistics</summary>
 <br>
