@@ -1,36 +1,44 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Joy%20Goswami%20Niloy&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Joy%20Goswami%20Niloy&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=MERN%20Stack%20Developer&descAlignY=55&descSize=18" />
 </p>
 
 <!-- Typing SVG with MERN focus -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=500&color=00C9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Joy+Goswami+Niloy;MERN+Stack+Developer;Building+Scalable+Web+Apps;Modern+UI+%2B+Powerful+Backend" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00C9FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Joy+Goswami+Niloy;Full-Stack+MERN+Developer+%F0%9F%9A%80;Building+Scalable+Web+Applications;Modern+UI+%2B+Powerful+APIs;Turning+Ideas+Into+Reality+%F0%9F%92%A1" alt="Typing SVG" />
 </h1>
 
-<h4 align="center">Full-stack magic with MongoDB, Express, React, and Node.js — crafting seamless digital experiences.</h4>
+<h4 align="center">✨ Full-stack magic with MongoDB, Express, React & Node.js — crafting seamless digital experiences. ✨</h4>
 
-<!-- Boy Developer GIF -->
+<br/>
+
+<!-- Coding GIF - modern, high quality dev animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Animation" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joygoswaminiloy2023-droid&label=Profile%20Views&color=0e75b6&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/joygoswaminiloy2023-droid?label=Followers&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=joygoswaminiloy2023-droid&label=Profile%20Views&color=00C9FF&style=for-the-badge" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/joygoswaminiloy2023-droid?label=Followers&style=for-the-badge&color=92FE9D&labelColor=0d1117" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a **MERN Stack Developer** passionate about building end-to-end web applications — from intuitive frontends to robust backends. I love solving real-world problems with clean code, modern design, and efficient data flow.
-
-- 🎯 **Specialization:** MERN (MongoDB, Express.js, React, Node.js)
-- 💼 **Currently building:** MediScan — AI-powered medical report insights tool
-- 🌱 **Leveling up:** Next.js, TypeScript, GraphQL
-- 🎨 **Design focus:** Tailwind CSS, Framer Motion, responsive layouts
-- 🚀 **Goal:** Contribute to open-source MERN projects
+```javascript
+const joy = {
+  name: "Joy Goswami Niloy",
+  role: "MERN Stack Developer",
+  location: "Bangladesh 🇧🇩",
+  currentProject: "MediScan — AI-powered medical report insights",
+  learning: ["Next.js", "TypeScript", "GraphQL"],
+  design: ["Tailwind CSS", "Framer Motion", "Figma"],
+  goal: "Contribute to impactful open-source MERN projects",
+  funFact: "Best code is readable, reusable & responsible 🎯"
+};
+```
 
 ---
 
@@ -42,28 +50,33 @@ I'm a **MERN Stack Developer** passionate about building end-to-end web applicat
 | 🌱 Deep diving into **Next.js** & **TypeScript** | Full-stack SSR |
 | ⚡ Building reusable component libraries | React + Storybook |
 | 💡 Optimizing API performance & caching | Node.js + Redis |
-| 🧪 Writing clean, testable code | Jest, React Testing Library |
+| 🧪 Writing clean, testable code | Jest + React Testing Library |
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=js,ts,nextjs,tailwind,redux,graphql&theme=dark" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker&theme=dark" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=java,py,redis,jest&theme=dark" />
+</p>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <!-- Stats Card - Alternative Server -->
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joygoswaminiloy2023-droid&theme=radical" alt="GitHub Stats" />
-  
-  <!-- Streak Stats - Always Reliable -->
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=joygoswaminiloy2023-droid&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=joygoswaminiloy2023-droid&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00C9FF&icon_color=92FE9D&text_color=ffffff" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=joygoswaminiloy2023-droid&theme=radical&hide_border=true&background=0d1117&ring=00C9FF&fire=92FE9D&currStreakLabel=ffffff" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <!-- Top Languages - Working Server -->
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joygoswaminiloy2023-droid&theme=radical" alt="Top Languages" />
-  
-  <!-- Activity Graph -->
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=joygoswaminiloy2023-droid&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="Activity Graph" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joygoswaminiloy2023-droid&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00C9FF&text_color=ffffff" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=joygoswaminiloy2023-droid&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=00C9FF&line=92FE9D&point=ffffff" alt="Activity Graph" />
 </p>
-<!-- Detailed Stats Table (Fallback) -->
+
 <details>
 <summary>📈 Click to view detailed statistics</summary>
 <br>
@@ -79,17 +92,24 @@ I'm a **MERN Stack Developer** passionate about building end-to-end web applicat
 | 🔀 Pull Requests | 4 pts |
 | 🏆 Experience Level | Intermediate |
 
-**Top Languages (Estimated):**
-- JavaScript/TypeScript
-- HTML/CSS
+**Top Languages:**
+- JavaScript / TypeScript
+- HTML / CSS
 - Java
-- C/C++
+- C / C++
 - PHP
 
 </details>
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=joygoswaminiloy2023-droid&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</p>
+
+---
 
 ## 🌐 Connect With Me
 
@@ -97,37 +117,35 @@ I'm a **MERN Stack Developer** passionate about building end-to-end web applicat
   <a href="https://linkedin.com/in/joy-goswami" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
+  &nbsp;
   <a href="https://joy-of-development.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://discord.com/users/1410454355357859922" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🛠️ MERN Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,ts,nextjs,tailwind,redux,git,github,vscode,postman,figma,java,py" />
-</p>
-
----
-
-
-
 ## 🧠 Fun Fact
 
-When I'm not coding, I'm probably exploring new tech, contributing to open source, or designing UI components in Figma.  
-I believe the best code is readable, reusable, and responsible.
+> 💡 *"When I'm not coding, I'm exploring new tech, contributing to open source, or designing UI in Figma.*
+> *I believe the best code is readable, reusable, and responsible."*
 
 ---
 
+## 🙏 Thank You!
 
-
-## 🙏 Thank You
-
-Thanks for stopping by! I'm always open to collaborations, tech talks, or just nerding out over JavaScript.  
-Let's build something amazing together — one commit at a time. 🚀
+<p align="center">
+  Thanks for stopping by! Always open to collaborations, tech talks, or just nerding out over JavaScript. <br/>
+  <strong>Let's build something amazing together — one commit at a time. 🚀</strong>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer" />
