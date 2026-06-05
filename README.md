@@ -68,7 +68,7 @@ const joy = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joygoswaminiloy2023-droid&theme=tokyonight" width="98%" alt="Profile Details" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joygoswaminiloy2023-droid&theme=tokyonight" width="98%" alt="Profile Details" />
 </p>
 
 <p align="center">
