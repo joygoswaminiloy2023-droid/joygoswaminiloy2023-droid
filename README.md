@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Joy%20Goswami%20Niloy&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=MERN%20Stack%20Developer&descAlignY=55&descSize=18" />
 </p>
 
-<!-- Typing SVG with MERN focus -->
+<!-- Typing SVG -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00C9FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Joy+Goswami+Niloy;Full-Stack+MERN+Developer+%F0%9F%9A%80;Building+Scalable+Web+Applications;Modern+UI+%2B+Powerful+APIs;Turning+Ideas+Into+Reality+%F0%9F%92%A1" alt="Typing SVG" />
 </h1>
@@ -12,7 +12,7 @@
 
 <br/>
 
-<!-- Coding GIF - modern, high quality dev animation -->
+<!-- Coding GIF -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Animation" />
 </p>
@@ -68,13 +68,13 @@ const joy = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=joygoswaminiloy2023-droid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C9FF&icon_color=92FE9D&text_color=ffffff&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=joygoswaminiloy2023-droid&theme=tokyonight&hide_border=true&background=0d1117&ring=00C9FF&fire=92FE9D&currStreakLabel=00C9FF&sideLabels=ffffff&dates=888888" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=joygoswaminiloy2023-droid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=92FE9D&text_color=ffffff&count_private=true&rank_icon=github" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats-six.vercel.app?user=joygoswaminiloy2023-droid&theme=tokyonight&hide_border=true&background=0D1117&ring=00C9FF&fire=92FE9D&currStreakLabel=00C9FF&sideLabels=ffffff&dates=aaaaaa" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joygoswaminiloy2023-droid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C9FF&text_color=ffffff&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=joygoswaminiloy2023-droid&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=00C9FF&line=92FE9D&point=ffffff" alt="Activity Graph" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joygoswaminiloy2023-droid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=ffffff&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=joygoswaminiloy2023-droid&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=00C9FF&line=92FE9D&point=ffffff" alt="Activity Graph" />
 </p>
 
 <details>
@@ -128,6 +128,10 @@ const joy = {
   &nbsp;
   <a href="https://discord.com/users/1410454355357859922" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/joy.goswami.365662" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
