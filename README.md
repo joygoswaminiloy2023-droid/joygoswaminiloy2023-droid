@@ -74,14 +74,14 @@ const joy = {
 
 <!-- ✅ Streak Stats — working -->
 <p align="center">
-  <img width="65%" src="https://github-readme-streak-stats-six.vercel.app?user=joygoswaminiloy2023-droid&theme=react-dark&hide_border=true&background=0d1117&ring=00C9FF&fire=92FE9D&currStreakLabel=00C9FF&sideLabels=ffffff&dates=888888" alt="GitHub Streak" />
+  <img width="65%" src="https://github-readme-streak-stats-six.vercel.app?user=joygoswaminiloy2023-droid&theme=react-dark&hide_border=true&background=0d1117&ring=00C9FF&fire=92FE9D&currStreakLabel=00C9FF&sideNums=00C9FF&sideLabels=92FE9D&dates=888888" alt="GitHub Streak" />
 </p>
 
 <!-- 📌 Static Stats — always renders, no external dependency -->
-<p align="center">
+<div align="center">
 
 | 🏆 Metric | 📈 Value |
-|:---:|:---:|
+|:---|:---:|
 | ⭐ Total Contributions | **471+** |
 | 🔥 Current Streak | **1 day** |
 | 🏅 Longest Streak | **9 days** |
@@ -89,9 +89,21 @@ const joy = {
 | 📦 Repositories | **28** |
 | 👥 Followers | **4** |
 | 🔀 Pull Requests | **4** |
-| 🌐 Top Languages | **JS · TS · HTML · CSS · Java** |
 
-</p>
+</div>
+
+<details>
+<summary>🌐 Click to see Top Languages</summary>
+<br>
+
+**Most Used Languages:**
+- ⚡ JavaScript / TypeScript
+- 🌐 HTML / CSS
+- ☕ Java
+- 🔧 C / C++
+- 🐘 PHP
+
+</details>
 
 ---
 
