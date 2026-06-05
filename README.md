@@ -78,10 +78,6 @@ const joy = {
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joygoswaminiloy2023-droid&theme=tokyonight" width="49%" alt="Most Commit Language" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joygoswaminiloy2023-droid&theme=tokyonight" width="98%" alt="Profile Details" />
 </p>
 
@@ -95,7 +91,6 @@ const joy = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joygoswaminiloy2023-droid&theme=tokyonight" width="49%" alt="Most Commit Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joygoswaminiloy2023-droid&theme=tokyonight&utcOffset=6" width="49%" alt="Productive Time" />
 </p>
-
 <details>
 <summary>📈 Click to view detailed statistics</summary>
 <br>
