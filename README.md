@@ -67,20 +67,19 @@ const joy = {
 
 ## 📊 GitHub Analytics
 
-<!-- 
-  ⚡ SETUP REQUIRED FOR STATS & TROPHIES:
-  Deploy your own instance at https://vercel.com/new/clone?repository-url=https://github.com/anuraghazra/github-readme-stats
-  Then replace YOUR-VERCEL-APP below with your deployment URL (e.g. my-stats.vercel.app)
--->
-
 <p align="center">
-  <img width="49%" src="https://YOUR-VERCEL-APP.vercel.app/api?username=joygoswaminiloy2023-droid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=92FE9D&text_color=ffffff&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats-six.vercel.app?user=joygoswaminiloy2023-droid&theme=tokyonight&hide_border=true&background=0D1117&ring=00C9FF&fire=92FE9D&currStreakLabel=00C9FF&sideLabels=ffffff&dates=aaaaaa" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joygoswaminiloy2023-droid&theme=tokyonight" width="98%" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=joygoswaminiloy2023-droid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=ffffff&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=joygoswaminiloy2023-droid&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=00C9FF&line=92FE9D&point=ffffff" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joygoswaminiloy2023-droid&theme=tokyonight" width="32%" alt="Stats" />
+  <img src="https://github-readme-streak-stats-six.vercel.app?user=joygoswaminiloy2023-droid&theme=tokyonight&hide_border=true&background=0D1117&ring=00C9FF&fire=92FE9D&currStreakLabel=00C9FF&sideLabels=ffffff&dates=aaaaaa" width="32%" alt="Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joygoswaminiloy2023-droid&theme=tokyonight" width="32%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joygoswaminiloy2023-droid&theme=tokyonight" width="49%" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joygoswaminiloy2023-droid&theme=tokyonight&utcOffset=6" width="49%" alt="Productive Time" />
 </p>
 
 <details>
