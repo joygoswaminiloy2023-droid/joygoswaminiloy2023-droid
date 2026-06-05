@@ -74,7 +74,7 @@ const joy = {
 
 <!-- ✅ Streak Stats — working -->
 <p align="center">
-  <img width="65%" src="https://github-readme-streak-stats-six.vercel.app?user=joygoswaminiloy2023-droid&theme=react-dark&hide_border=true&background=0d1117&ring=00C9FF&fire=92FE9D&currStreakLabel=00C9FF&sideNums=00C9FF&sideLabels=92FE9D&dates=888888" alt="GitHub Streak" />
+  <img width="65%" src="https://github-readme-streak-stats-six.vercel.app?user=joygoswaminiloy2023-droid&theme=react-dark&hide_border=true&background=0d1117&ring=00C9FF&fire=92FE9D&currStreakNum=FF6B6B&currStreakLabel=00C9FF&sideNums=ffffff&sideLabels=92FE9D&dates=888888" alt="GitHub Streak" />
 </p>
 
 <!-- 📌 Static Stats — always renders, no external dependency -->
@@ -92,18 +92,21 @@ const joy = {
 
 </div>
 
-<details>
-<summary>🌐 Click to see Top Languages</summary>
-<br>
-
-**Most Used Languages:**
-- ⚡ JavaScript / TypeScript
-- 🌐 HTML / CSS
-- ☕ Java
-- 🔧 C / C++
-- 🐘 PHP
-
-</details>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
 
 ---
 
