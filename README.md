@@ -67,48 +67,31 @@ const joy = {
 
 ## 📊 GitHub Analytics
 
-<!-- Activity Graph — confirmed working ✅ -->
+<!-- ✅ Activity Graph — working -->
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=joygoswaminiloy2023-droid&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="Activity Graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=joygoswaminiloy2023-droid&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
-<!-- Streak — confirmed working ✅ -->
+<!-- ✅ Streak Stats — working -->
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats-six.vercel.app?user=joygoswaminiloy2023-droid&theme=react-dark&hide_border=true&background=0d1117&ring=00C9FF&fire=92FE9D&currStreakLabel=00C9FF&sideLabels=ffffff&dates=aaaaaa" alt="GitHub Streak" />
+  <img width="65%" src="https://github-readme-streak-stats-six.vercel.app?user=joygoswaminiloy2023-droid&theme=react-dark&hide_border=true&background=0d1117&ring=00C9FF&fire=92FE9D&currStreakLabel=00C9FF&sideLabels=ffffff&dates=888888" alt="GitHub Streak" />
 </p>
 
-<!-- Summary Cards — different service from github-readme-stats, better Camo chance -->
+<!-- 📌 Static Stats — always renders, no external dependency -->
 <p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joygoswaminiloy2023-droid&theme=react_dark" alt="Stats" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joygoswaminiloy2023-droid&theme=react_dark" alt="Top Languages" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joygoswaminiloy2023-droid&theme=react_dark" alt="Most Commit Language" />
+
+| 🏆 Metric | 📈 Value |
+|:---:|:---:|
+| ⭐ Total Contributions | **471+** |
+| 🔥 Current Streak | **1 day** |
+| 🏅 Longest Streak | **9 days** |
+| 💻 Total Commits | **419+** |
+| 📦 Repositories | **28** |
+| 👥 Followers | **4** |
+| 🔀 Pull Requests | **4** |
+| 🌐 Top Languages | **JS · TS · HTML · CSS · Java** |
+
 </p>
-
-<p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joygoswaminiloy2023-droid&theme=react_dark" alt="Profile Details" />
-</p>
-
-<details>
-<summary>📈 Click to view detailed statistics</summary>
-<br>
-
-| Metric | Value |
-|--------|-------|
-| 🎯 Total Contributions | 471+ |
-| 🔥 Current Streak | 1 day |
-| ⭐ Longest Streak | 9 days |
-| 💻 Commits | 419+ |
-| 📦 Repositories | 28 |
-| 👥 Followers | 4 |
-| 🔀 Pull Requests | 4 |
-| 🏆 Experience Level | Intermediate |
-
-**Top Languages:**
-- JavaScript / TypeScript
-- HTML / CSS
-- Java · C / C++ · PHP
-
-</details>
 
 ---
 
