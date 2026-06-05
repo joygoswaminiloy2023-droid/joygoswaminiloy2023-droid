@@ -67,13 +67,19 @@ const joy = {
 
 ## 📊 GitHub Analytics
 
+<!-- 
+  ⚡ SETUP REQUIRED FOR STATS & TROPHIES:
+  Deploy your own instance at https://vercel.com/new/clone?repository-url=https://github.com/anuraghazra/github-readme-stats
+  Then replace YOUR-VERCEL-APP below with your deployment URL (e.g. my-stats.vercel.app)
+-->
+
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=joygoswaminiloy2023-droid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=92FE9D&text_color=ffffff&count_private=true&rank_icon=github" alt="GitHub Stats" />
+  <img width="49%" src="https://YOUR-VERCEL-APP.vercel.app/api?username=joygoswaminiloy2023-droid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=92FE9D&text_color=ffffff&count_private=true" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats-six.vercel.app?user=joygoswaminiloy2023-droid&theme=tokyonight&hide_border=true&background=0D1117&ring=00C9FF&fire=92FE9D&currStreakLabel=00C9FF&sideLabels=ffffff&dates=aaaaaa" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joygoswaminiloy2023-droid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=ffffff&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=joygoswaminiloy2023-droid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=ffffff&langs_count=8" alt="Top Languages" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=joygoswaminiloy2023-droid&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=00C9FF&line=92FE9D&point=ffffff" alt="Activity Graph" />
 </p>
 
@@ -83,21 +89,19 @@ const joy = {
 
 | Metric | Value |
 |--------|-------|
-| 🎯 Total Contributions | 452+ |
-| 🔥 Current Streak | 8 days |
+| 🎯 Total Contributions | 471+ |
+| 🔥 Current Streak | 1 day |
 | ⭐ Longest Streak | 9 days |
-| 💻 Commits (Hyper Contributor) | 419 pts |
+| 💻 Commits | 419+ |
 | 📦 Repositories | 28 |
 | 👥 Followers | 4 |
-| 🔀 Pull Requests | 4 pts |
+| 🔀 Pull Requests | 4 |
 | 🏆 Experience Level | Intermediate |
 
 **Top Languages:**
 - JavaScript / TypeScript
 - HTML / CSS
-- Java
-- C / C++
-- PHP
+- Java · C / C++ · PHP
 
 </details>
 
