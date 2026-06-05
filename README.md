@@ -17,12 +17,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Animation" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joygoswaminiloy2023-droid&label=Profile%20Views&color=00C9FF&style=for-the-badge" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/joygoswaminiloy2023-droid?label=Followers&style=for-the-badge&color=92FE9D&labelColor=0d1117" />
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
