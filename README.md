@@ -68,12 +68,12 @@ const joy = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=joygoswaminiloy2023-droid&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00C9FF&icon_color=92FE9D&text_color=ffffff" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=joygoswaminiloy2023-droid&theme=radical&hide_border=true&background=0d1117&ring=00C9FF&fire=92FE9D&currStreakLabel=ffffff" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=joygoswaminiloy2023-droid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C9FF&icon_color=92FE9D&text_color=ffffff&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=joygoswaminiloy2023-droid&theme=tokyonight&hide_border=true&background=0d1117&ring=00C9FF&fire=92FE9D&currStreakLabel=00C9FF&sideLabels=ffffff&dates=888888" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joygoswaminiloy2023-droid&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00C9FF&text_color=ffffff" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joygoswaminiloy2023-droid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C9FF&text_color=ffffff&langs_count=8" alt="Top Languages" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=joygoswaminiloy2023-droid&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=00C9FF&line=92FE9D&point=ffffff" alt="Activity Graph" />
 </p>
 
@@ -106,7 +106,7 @@ const joy = {
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joygoswaminiloy2023-droid&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=joygoswaminiloy2023-droid&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </p>
 
 ---
