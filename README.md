@@ -58,9 +58,9 @@ const joy = {
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=js,nextjs,tailwind,redux,graphql&theme=dark" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker&theme=dark" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=java,py,redis,jest&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,nextjs,tailwind,graphql&theme=dark" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker&theme=dark" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=java,py,&theme=dark" />
 </p>
 
 ---
