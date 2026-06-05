@@ -75,6 +75,23 @@ const joy = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joygoswaminiloy2023-droid&theme=tokyonight" width="98%" alt="Profile Details" />
 </p>
 
+
+
+<p align="center">
+  <!-- Stats Card - Alternative Server -->
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joygoswaminiloy2023-droid&theme=radical" alt="GitHub Stats" />
+  
+  <!-- Streak Stats - Always Reliable -->
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=joygoswaminiloy2023-droid&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- Top Languages - Working Server -->
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joygoswaminiloy2023-droid&theme=radical" alt="Top Languages" />
+  
+  <!-- Activity Graph -->
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=joygoswaminiloy2023-droid&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="Activity Graph" />
+</p>
 <details>
 <summary>📈 Click to view detailed statistics</summary>
 <br>
