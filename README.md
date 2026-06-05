@@ -79,7 +79,6 @@ const joy = {
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joygoswaminiloy2023-droid&theme=tokyonight" width="49%" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joygoswaminiloy2023-droid&theme=tokyonight&utcOffset=6" width="49%" alt="Productive Time" />
 </p>
 
 <details>
@@ -103,14 +102,6 @@ const joy = {
 - Java · C / C++ · PHP
 
 </details>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joygoswaminiloy2023-droid&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</p>
 
 ---
 
