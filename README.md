@@ -17,6 +17,12 @@
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Animation" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joygoswaminiloy2023-droid&label=Profile%20Views&color=00C9FF&style=for-the-badge" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/joygoswaminiloy2023-droid?label=Followers&style=for-the-badge&color=92FE9D&labelColor=0d1117" />
+</p>
+
 ---
 
 ## 🧑‍💻 About Me
@@ -61,18 +67,25 @@ const joy = {
 
 ## 📊 GitHub Analytics
 
+<!-- Activity Graph — confirmed working ✅ -->
 <p align="center">
- <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=joygoswaminiloy2023-droid&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="Activity Graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=joygoswaminiloy2023-droid&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+
+<!-- Streak — confirmed working ✅ -->
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats-six.vercel.app?user=joygoswaminiloy2023-droid&theme=react-dark&hide_border=true&background=0d1117&ring=00C9FF&fire=92FE9D&currStreakLabel=00C9FF&sideLabels=ffffff&dates=aaaaaa" alt="GitHub Streak" />
+</p>
+
+<!-- Summary Cards — different service from github-readme-stats, better Camo chance -->
+<p align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joygoswaminiloy2023-droid&theme=react_dark" alt="Stats" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joygoswaminiloy2023-droid&theme=react_dark" alt="Top Languages" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joygoswaminiloy2023-droid&theme=react_dark" alt="Most Commit Language" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joygoswaminiloy2023-droid&theme=react-dark&bg_color=0d1117" width="32%" alt="Stats" />
- <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=joygoswaminiloy2023-droid&theme=react-dark&hide_border=true&bg_color=0d1117" alt="GitHub Streak" />
- <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joygoswaminiloy2023-droid&theme=react-dark&bg_color=0d1117" alt="Top Languages" />
-</p>
-
-<p align="center">
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joygoswaminiloy2023-droid&theme=react-dark&bg_color=0d1117" alt="GitHub Stats" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joygoswaminiloy2023-droid&theme=react_dark" alt="Profile Details" />
 </p>
 
 <details>
