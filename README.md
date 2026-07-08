@@ -47,20 +47,20 @@ const joy = {
 | Activity | Technology |
 |----------|------------|
 | 🔭 Working on **MediScan** (AI medical insights) | MERN + AI APIs |
-| 🌱 Deep diving into **Next.js** & **TypeScript** | Full-stack SSR |
+| 🌱 Deep diving into **Next.js** | Full-stack SSR |
 | ⚡ Building reusable component libraries | React + Storybook |
 | 💡 Optimizing API performance & caching | Node.js + Redis |
 | 🧪 Writing clean, testable code | Jest + React Testing Library |
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark" /><br/><br/>
   <img src="https://skillicons.dev/icons?i=js,nextjs,tailwind&theme=dark" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker&theme=dark" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=java,py,php&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,&theme=dark" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=java,php&theme=dark" />
 </p>
 
 ---
