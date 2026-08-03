@@ -80,15 +80,7 @@ const joy = {
 <!-- 📌 Static Stats — always renders, no external dependency -->
 <div align="center">
 
-| 🏆 Metric | 📈 Value |
-|:---|:---:|
-| ⭐ Total Contributions | **471+** |
-| 🔥 Current Streak | **1 day** |
-| 🏅 Longest Streak | **9 days** |
-| 💻 Total Commits | **419+** |
-| 📦 Repositories | **28** |
-| 👥 Followers | **4** |
-| 🔀 Pull Requests | **4** |
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)](https://git.io/streak-stats)
 
 </div>
 
