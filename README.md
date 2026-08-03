@@ -80,7 +80,10 @@ const joy = {
 <!-- 📌 Static Stats — always renders, no external dependency -->
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)](https://git.io/streak-stats)
+| 🏆 Metric | 📈 Value |
+|:---|:---:|
+| 👥 Followers | ![Followers](https://img.shields.io/github/followers/joygoswaminiloy2023-droid?style=flat) |
+| ⭐ Stars | ![Stars](https://img.shields.io/github/stars/joygoswaminiloy2023-droid?style=flat) |
 
 </div>
 
