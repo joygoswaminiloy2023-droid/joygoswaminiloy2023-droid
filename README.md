@@ -71,9 +71,8 @@ const joy = {
 
 <!-- 📌 Reliable GitHub Stats Card -->
 <p align="center">
-  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=joygoswaminiloy2023-droid&show_icons=true&theme=react-dark&hide_border=true&bg_color=0d1117&title_color=00C9FF&icon_color=92FE9D&text_color=ffffff" alt="GitHub Stats" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=joygoswaminiloy2023-droid&theme=react-dark&bg_color=0d1117&color=00C9FF&line=92FE9D&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </p>
-
 <!-- ✅ Streak Stats -->
 <p align="center">
   <img width="75%" src="https://github-readme-streak-stats-six.vercel.app?user=joygoswaminiloy2023-droid&theme=react-dark&hide_border=true&background=0d1117&ring=00C9FF&fire=92FE9D&currStreakNum=FF6B6B&currStreakLabel=00C9FF&sideNums=ffffff&sideLabels=92FE9D&dates=888888" alt="GitHub Streak" />
