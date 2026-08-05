@@ -65,19 +65,21 @@ const joy = {
 
 ---
 
+
+
 ## 📊 GitHub Analytics
 
-<!-- ✅ Activity Graph — working -->
+<!-- 📌 Reliable GitHub Stats Card -->
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=joygoswaminiloy2023-droid&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=GitHub%20Contribution%20Activity" alt="Contribution Graph" />
+  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=joygoswaminiloy2023-droid&show_icons=true&theme=react-dark&hide_border=true&bg_color=0d1117&title_color=00C9FF&icon_color=92FE9D&text_color=ffffff" alt="GitHub Stats" />
 </p>
 
-<!-- ✅ Streak Stats — working -->
+<!-- ✅ Streak Stats -->
 <p align="center">
-  <img width="65%" src="https://github-readme-streak-stats-six.vercel.app?user=joygoswaminiloy2023-droid&theme=react-dark&hide_border=true&background=0d1117&ring=00C9FF&fire=92FE9D&currStreakNum=FF6B6B&currStreakLabel=00C9FF&sideNums=ffffff&sideLabels=92FE9D&dates=888888" alt="GitHub Streak" />
+  <img width="75%" src="https://github-readme-streak-stats-six.vercel.app?user=joygoswaminiloy2023-droid&theme=react-dark&hide_border=true&background=0d1117&ring=00C9FF&fire=92FE9D&currStreakNum=FF6B6B&currStreakLabel=00C9FF&sideNums=ffffff&sideLabels=92FE9D&dates=888888" alt="GitHub Streak" />
 </p>
 
-<!-- 📌 Static Stats — always renders, no external dependency -->
+<!-- 📌 Metric Summary Table -->
 <div align="center">
 
 | 🏆 Metric | 📈 Value |
