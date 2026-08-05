@@ -69,7 +69,7 @@ const joy = {
 
 <!-- ✅ Activity Graph — working -->
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=joygoswaminiloy2023-droid&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="Contribution Graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=joygoswaminiloy2023-droid&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=GitHub%20Contribution%20Activity" alt="Contribution Graph" />
 </p>
 
 <!-- ✅ Streak Stats — working -->
