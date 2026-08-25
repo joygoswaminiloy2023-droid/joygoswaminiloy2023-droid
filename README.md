@@ -70,7 +70,12 @@ const joy = {
 ## 📊 GitHub Analytics
 
 <!-- 📌 Reliable GitHub Stats Card -->
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joygoswaminiloy2023-droid&theme=github-compact&hide_border=true)
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=joygoswaminiloy2023-droid&theme=react-dark&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
+</p>
 <!-- ✅ Streak Stats -->
 <p align="center">
   <img width="75%" src="https://github-readme-streak-stats-six.vercel.app?user=joygoswaminiloy2023-droid&theme=react-dark&hide_border=true&background=0d1117&ring=00C9FF&fire=92FE9D&currStreakNum=FF6B6B&currStreakLabel=00C9FF&sideNums=ffffff&sideLabels=92FE9D&dates=888888" alt="GitHub Streak" />
