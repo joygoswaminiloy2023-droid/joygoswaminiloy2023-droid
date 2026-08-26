@@ -79,7 +79,7 @@ const joy = {
 </p>
 <!-- ✅ Streak Stats -->
 <p align="center">
-  <img width="75%" src="https://github-readme-streak-stats-six.vercel.app?user=joygoswaminiloy2023-droid&theme=react-dark&hide_border=true&background=0d1117&ring=00C9FF&fire=92FE9D&currStreakNum=FF6B6B&currStreakLabel=00C9FF&sideNums=ffffff&sideLabels=92FE9D&dates=888888" alt="GitHub Streak" />
+  <img width="75%" src="https://streak-stats.demolab.com?user=joygoswaminiloy2023-droid&theme=react-dark&hide_border=true&background=0d1117&ring=00C9FF&fire=92FE9D&currStreakNum=FF6B6B&currStreakLabel=00C9FF&sideNums=ffffff&sideLabels=92FE9D&dates=888888" alt="GitHub Streak" />
 </p>
 
 <!-- 📌 Metric Summary Table -->
