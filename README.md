@@ -273,11 +273,11 @@ An AI-focused healthcare project exploring symptom analysis, X-ray scanning, and
 
 <div align="center">
 
-<img width="95%" src="./assets/contribution-graph.svg" alt="GitHub contribution graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joygoswaminiloy2023-droid&theme=react-dark&bg_color=0d1117&color=00C9FF&line=92FE9D&point=ffffff&area=true&hide_border=true" width="90%" alt="Activity Graph" />
 
 </div>
 
-> **Graph not loading?** The graph above relies on a third-party server. For a more reliable setup, use the GitHub Actions method below to generate and commit your own SVG.
+
 
 ---
 
