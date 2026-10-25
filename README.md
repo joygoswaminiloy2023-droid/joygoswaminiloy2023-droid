@@ -1,96 +1,220 @@
 
-<!-- ===================== HERO ===================== -->
+<!-- =============== HERO BANNER =============== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00C9FF,50:3A86FF,100:92FE9D&text=JOY%20GOSWAMI%20NILOY&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%2FML%20ENTHUSIAST&descSize=14&descAlignY=58&animation=fadeIn" alt="Joy Goswami Niloy banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00C9FF,50:3A86FF,100:92FE9D&text=JOY%20GOSWAMI%20NILOY&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%2FML%20EXPLORER&descSize=15&descAlignY=58&animation=fadeIn" alt="Neon developer banner"/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=700&color=00C9FF&center=true&vCenter=true&width=700&height=60&lines=Hey+there!+I'm+Joy+Goswami+Niloy+%F0%9F%91%8B;Full-Stack+MERN+Developer+%F0%9F%9A%80;Building+Modern+Web+Experiences+%E2%9C%A8;Exploring+Machine+Learning+%F0%9F%A4%96;Code.+Create.+Learn.+Repeat." alt="Typing animation"/>
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2500&pause=600&color=00C9FF&center=true&vCenter=true&width=750&height=65&lines=Hey%2C+I'm+Joy+Goswami+Niloy+%F0%9F%91%8B;MERN+Developer+by+day+%F0%9F%92%BB;ML%2FDL+Explorer+by+night+%F0%9F%A4%96;Teaching+machines+to+think...+hopefully+%F0%9F%A7%A0;Turning+coffee+into+code+%E2%98%95" alt="Animated introduction"/>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=joygoswaminiloy2023-droid&style=for-the-badge&color=00C9FF&label=PROFILE+VIEWS" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/joygoswaminiloy2023-droid?style=for-the-badge&color=92FE9D&labelColor=0d1117&label=FOLLOWERS" alt="GitHub followers"/>
-</p>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=joygoswaminiloy2023-droid&style=for-the-badge&color=00C9FF&label=CURIOUS+VISITORS" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/joygoswaminiloy2023-droid?style=for-the-badge&color=92FE9D&labelColor=0d1117&label=CODE+BUDDIES" alt="Followers"/>
+
+<br/><br/>
 
 <a href="https://joy-of-development.netlify.app/">
-  <img src="https://img.shields.io/badge/Explore_My_Portfolio-00C9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-Explore_My_World-00C9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://github.com/joygoswaminiloy2023-droid">
-  <img src="https://img.shields.io/badge/GitHub-101820?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Enter_the_Code_Lab-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Who Am I?
 
-<img align="right" width="290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation"/>
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding"/>
 
-I'm a Computer Science and Engineering student passionate about building useful, scalable, and user-friendly digital products.
+Hey! I'm **Joy Goswami Niloy**, a CSE student from Bangladesh 🇧🇩 who loves building things for the web.
 
-- 💻 Focused on **Full-Stack Web Development**
-- ⚛️ Building with **React, Next.js, Node.js & TypeScript**
-- 🗄️ Working with **MongoDB, REST APIs & authentication**
-- 🤖 Exploring **Machine Learning and Deep Learning**
-- 🧠 Interested in combining web technologies with AI
-- 🎨 Love clean UI, smooth animations, and great UX
-- 🤝 Open to collaborations, internships, and open-source projects
+💻 I build full-stack applications.
+
+🤖 I'm teaching machines to learn.
+
+🧠 I'm trying to understand deep learning without losing mine.
+
+🐛 I fix bugs and occasionally introduce their extended families.
+
+☕ Coffee is my unofficial development dependency.
+
+🎯 My mission: turn crazy ideas into useful software.
 
 <br clear="right"/>
 
 ```javascript
 const joy = {
   name: "Joy Goswami Niloy",
-  location: "Bangladesh 🇧🇩",
   role: "Full-Stack Developer",
-  coreStack: ["MongoDB", "Express", "React", "Node.js"],
-  exploring: ["Next.js", "TypeScript", "Machine Learning"],
-  mindset: "Learn continuously. Build responsibly.",
-  motto: "Turning ideas into working products 🚀"
+  stack: ["MongoDB", "Express", "React", "Node.js"],
+  currentlyLearning: [
+    "Machine Learning",
+    "Deep Learning",
+    "Python",
+    "TypeScript"
+  ],
+  superpower: "Debugging at 2 AM",
+  weakness: "One more YouTube tutorial",
+  fuel: ["Coffee", "Curiosity", "Stack Overflow"],
+  status: "Training my brain like a neural network 🧠"
 };
 ```
 
 ---
 
-## ⚡ What I'm Building & Learning
+## 🔥 What I'm Doing Now
+
+<div align="center">
+
+<img width="360" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Computer science learning animation"/>
+
+### 🤖 Teaching Machines to Learn
+
+**Current mission:** Moving from building intelligent-looking web interfaces to understanding the intelligence behind AI.
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Machine Learning
+
+<img src="https://img.shields.io/badge/STATUS-Learning-00C9FF?style=flat-square" alt="Learning status"/>
+
+- 🐍 Practicing Python
+- 🧹 Learning data preprocessing
+- 📈 Exploring data visualization
+- 🎯 Studying classification and regression
+- 🧪 Experimenting with model evaluation
+
+**Goal:** Make data tell a useful story.
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Deep Learning
+
+<img src="https://img.shields.io/badge/STATUS-Exploring-92FE9D?style=flat-square&labelColor=0d1117" alt="Exploring status"/>
+
+- 🧬 Understanding neural networks
+- 🔗 Learning about layers and activation functions
+- 🖼️ Exploring image classification
+- ⚡ Discovering TensorFlow
+- 🤯 Trying to understand backpropagation
+
+**Goal:** Understand what happens inside the black box.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=2800&pause=600&color=92FE9D&center=true&vCenter=true&width=700&height=50&lines=Epoch+1%3A+Why+is+the+loss+so+high%3F+%F0%9F%98%AD;Epoch+2%3A+Okay%2C+I+think+I+get+it...;Epoch+3%3A+Why+is+the+loss+NaN%3F+%F0%9F%A4%A1;Training+complete%3F+My+brain+needs+more+epochs." alt="ML learning jokes"/>
+
+</div>
+
+> 💡 The plan: combine my MERN stack experience with AI/ML to build smarter, data-driven applications. One experiment at a time!
+
+---
+
+## 😂 Developer Life in a Nutshell
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### When the code works on the first try
+
+<img width="250" src="https://media.giphy.com/media/111ebonMs90YLu/giphy.gif" alt="Celebration GIF"/>
+
+**"I am a programming genius!"** 🚀
+
+</td>
+<td align="center" width="50%">
+
+### When production says otherwise
+
+<img width="250" src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Shocked reaction GIF"/>
+
+**"It worked on my machine."** 💀
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### Fixing one tiny bug
+
+<img width="250" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Working hard GIF"/>
+
+One fix. Seven new bugs.
+
+</td>
+<td align="center" width="50%">
+
+### Training my first neural network
+
+<img width="250" src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" alt="Thinking GIF"/>
+
+**"Please converge. I have deadlines."** 🥲
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🚀 Things I've Built
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🏡 Housio
+
 A full-stack real estate platform.
 
 - Advanced property filtering
-- Interactive map integration
+- Interactive maps
 - Role-based authentication
-- Property management workflows
+- Property management
 
 **Stack:** Next.js · React · MongoDB · Tailwind CSS
 
+<div align="center">
 <a href="https://housio-client.vercel.app/">
-<img src="https://img.shields.io/badge/Live_Demo-00C9FF?style=flat-square&logo=vercel&logoColor=white" alt="Housio live demo"/>
+<img src="https://img.shields.io/badge/OPEN_PROJECT-00C9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Open Housio"/>
 </a>
+</div>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🏥 Medicare Connect
-A healthcare platform designed to connect users with digital healthcare services.
 
-- JWT-based role authorization
-- API-driven data fetching
-- Stripe payment integration
-- Responsive user experience
+A healthcare platform with modern web functionality.
+
+- JWT role-based authorization
+- API data fetching
+- Stripe payments
+- Responsive UI
 
 **Stack:** React · Node.js · MongoDB · Stripe
 
+<div align="center">
 <a href="https://medicare-connect-three.vercel.app/">
-<img src="https://img.shields.io/badge/Live_Demo-92FE9D?style=flat-square&logo=vercel&logoColor=black" alt="Medicare Connect live demo"/>
+<img src="https://img.shields.io/badge/OPEN_PROJECT-92FE9D?style=for-the-badge&logo=vercel&logoColor=black" alt="Open Medicare Connect"/>
 </a>
+</div>
 
 </td>
 </tr>
@@ -98,9 +222,10 @@ A healthcare platform designed to connect users with digital healthcare services
 <td colspan="2" valign="top">
 
 ### 🤖 Medi Scan
+
 An AI-focused healthcare project exploring symptom analysis, X-ray scanning, and disease-risk prediction.
 
-**Focus:** AI integration · Data analysis · Healthcare technology
+**Focus:** Healthcare AI · Data analysis · Intelligent applications
 
 </td>
 </tr>
@@ -108,35 +233,31 @@ An AI-focused healthcare project exploring symptom analysis, X-ray scanning, and
 
 ---
 
-## 🧰 Tech Arsenal
+## 🛠️ My Developer Toolkit
 
-### Frontend
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="Frontend technologies"/>
-</p>
+### Frontend — Making Pixels Behave
 
-### Backend & Database
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="Frontend stack"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" alt="Backend technologies"/>
-</p>
+### Backend — Making Servers Behave
 
-### AI, ML & Programming
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" alt="Backend stack"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,java,cpp&theme=dark" alt="AI and programming technologies"/>
-</p>
+### AI / ML — Making Machines Behave
 
-### Tools & Workflow
+<img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" alt="AI and ML tools"/>
 
-<p>
+### Tools — Making My Life Easier
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" alt="Development tools"/>
-</p>
+
+</div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
 
@@ -145,39 +266,65 @@ An AI-focused healthcare project exploring symptom analysis, X-ray scanning, and
 </a>
 
 <a href="https://github.com/joygoswaminiloy2023-droid">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joygoswaminiloy2023-droid&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=FFFFFF&langs_count=8" alt="Most used programming languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joygoswaminiloy2023-droid&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=FFFFFF&langs_count=8" alt="Most used languages"/>
 </a>
 
-<br/>
+<br/><br/>
 
-<a href="https://git.io/streak-stats">
-<img width="70%" src="https://streak-stats.demolab.com?user=joygoswaminiloy2023-droid&theme=dark&hide_border=true&background=0D1117&ring=00C9FF&fire=92FE9D&currStreakLabel=00C9FF&sideLabels=92FE9D&dates=8B949E" alt="GitHub contribution streak"/>
-</a>
+<img width="75%" src="https://streak-stats.demolab.com?user=joygoswaminiloy2023-droid&theme=dark&hide_border=true&background=0D1117&ring=00C9FF&fire=92FE9D&currStreakLabel=00C9FF&sideLabels=92FE9D&dates=8B949E" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=joygoswaminiloy2023-droid&bg_color=0d1117&color=00c9ff&line=92fe9d&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph"/>
 
 </div>
 
-> Note: These are dynamically generated cards. Third-party services may occasionally experience downtime or rate limits.
+<sub>📌 Stats and graphs depend on third-party services and may occasionally be unavailable or subject to rate limits.</sub>
 
 ---
 
-## 🌐 Let's Connect
+## 🧠 Random Facts About My Coding Life
+
+- 🐛 My favorite feature is the one I didn't break.
+- 🔍 I spend 10 minutes writing code and 2 hours wondering why it doesn't work.
+- 🤖 I want to build AI that predicts bugs before I write them.
+- 🌙 "One last commit" is a dangerous sentence after midnight.
+- 📚 My browser tabs are basically an unorganized university degree.
+
+### My current development status
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Frontend-Shipping-00C9FF?style=for-the-badge&logo=react&logoColor=white" alt="Frontend status"/>
+<img src="https://img.shields.io/badge/Backend-Optimizing-92FE9D?style=for-the-badge&logo=nodedotjs&logoColor=black" alt="Backend status"/>
+<img src="https://img.shields.io/badge/Brain-Training-FFB86C?style=for-the-badge&logo=python&logoColor=black" alt="Learning status"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=800&color=00C9FF&center=true&vCenter=true&width=650&height=45&lines=Status%3A+Still+debugging...;Coffee+level%3A+Critical+%E2%98%95;Neural+network%3A+Training...;Developer+mode%3A+Always+ON+%F0%9F%9A%80" alt="Funny status animation"/>
+
+</div>
+
+---
+
+## 🌐 Find Me Around the Internet
 
 <div align="center">
 
 <a href="https://linkedin.com/in/joy-goswami">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://joy-of-development.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-00C9FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit_My_World-00C9FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://github.com/joygoswaminiloy2023-droid">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Follow_My_Journey-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.facebook.com/joy.goswami.365662">
-<img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+<img src="https://img.shields.io/badge/Facebook-Say_Hi-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 <a href="https://discord.com/users/1410454355357859922">
-<img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+<img src="https://img.shields.io/badge/Discord-Join_My_World-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 
 </div>
@@ -186,10 +333,12 @@ An AI-focused healthcare project exploring symptom analysis, X-ray scanning, and
 
 <div align="center">
 
-### 💡 Build with purpose. Learn without limits.
+### Thanks for visiting my little corner of GitHub! 💙
 
-*“Great software isn't just written. It's thoughtfully designed, carefully built, and continuously improved.”*
+**Keep learning. Keep building. Keep laughing at your bugs.**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer" alt="Footer banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=130&section=footer&animation=fadeIn" alt="Animated footer"/>
+
+<sub>Made with 💻, ☕, curiosity, and an unreasonable number of browser tabs.</sub>
 
 </div>
