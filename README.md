@@ -33,7 +33,7 @@ const joy = {
   role: "MERN Stack Developer",
   location: "Bangladesh 🇧🇩",
   currentProject: "MediScan — AI-powered medical report insights",
-  learning: ["Next.js", "TypeScript", "GraphQL"],
+  learning: ["Machine Learning", "Deep Learning", "Next.js", "TypeScript"],
   design: ["Tailwind CSS", "Framer Motion", "Figma"],
   goal: "Contribute to impactful open-source MERN projects",
   funFact: "Best code is readable, reusable & responsible 🎯"
@@ -42,11 +42,40 @@ const joy = {
 
 ---
 
+## 🔥 What I'm Doing Now
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="380" alt="Learning ML and DL" />
+</p>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=600&color=92FE9D&center=true&vCenter=true&width=700&lines=Right+now+I'm+learning+Machine+Learning+%F0%9F%A4%96;And+diving+deep+into+Deep+Learning+%F0%9F%A7%A0;Turning+data+into+intelligence+%E2%9C%A8" alt="Currently learning" />
+</h3>
+
+<p align="center">
+  🤖 <b>Machine Learning</b> &nbsp;|&nbsp; 🧠 <b>Deep Learning</b> &nbsp;|&nbsp; 🐍 <b>Python</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Learning-00C9FF?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Deep%20Learning-Learning-92FE9D?style=for-the-badge&logo=tensorflow&logoColor=black" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Python-In%20Progress-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+<p align="center">
+  <i>Combining my MERN skills with AI to build smarter, data-driven applications 🚀</i>
+</p>
+
+---
+
 ## 🚀 Current Activities
 
 | Activity | Technology |
 |----------|------------|
 | 🔭 Working on **MediScan** (AI medical insights) | MERN + AI APIs |
+| 🤖 Learning **Machine Learning & Deep Learning** | Python + TensorFlow |
 | 🌱 Deep diving into **Next.js** | Full-stack SSR |
 | ⚡ Building reusable component libraries | React + Storybook |
 | 💡 Optimizing API performance & caching | Node.js + Redis |
@@ -59,25 +88,24 @@ const joy = {
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark" /><br/><br/>
   <img src="https://skillicons.dev/icons?i=js,nextjs,tailwind&theme=dark" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,&theme=dark" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=java,php&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=java,php,py,tensorflow&theme=dark" />
 </p>
 
 ---
 
-
-
 ## 📊 GitHub Analytics
 
-<!-- 📌 Reliable GitHub Stats Card -->
+<!-- Activity Graph (official host) -->
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph-orcin.vercel.app/graph?username=joygoswaminiloy2023-droid&theme=react-dark&bg_color=0d1117&color=00C9FF&line=92FE9D&point=ffffff&area=true&hide_border=true"
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=joygoswaminiloy2023-droid&theme=react-dark&bg_color=0d1117&color=00C9FF&line=92FE9D&point=ffffff&area=true&hide_border=true"
     width="90%"
     alt="Activity Graph"
   />
 </p>
-<!-- ✅ Streak Stats -->
+
+<!-- Streak Stats -->
 <p align="center">
   <img
     width="75%"
@@ -86,7 +114,16 @@ const joy = {
   />
 </p>
 
-<!-- 📌 Metric Summary Table -->
+<!-- Contribution Calendar (fallback, rarely rate-limited) -->
+<p align="center">
+  <img
+    width="90%"
+    src="https://ghchart.rshah.org/00C9FF/joygoswaminiloy2023-droid"
+    alt="Contribution Chart"
+  />
+</p>
+
+<!-- Metric Summary Table -->
 <div align="center">
 
 | 🏆 Metric | 📈 Value |
@@ -108,6 +145,8 @@ const joy = {
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
