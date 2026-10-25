@@ -1,134 +1,191 @@
-#!/usr/bin/env python3
-"""Generate a self-hosted GitHub activity graph (SVG). No third-party services."""
-import datetime as dt
-import json
-import math
-import os
-import urllib.request
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Joy%20Goswami%20Niloy&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=MERN%20Stack%20Developer&descAlignY=55&descSize=18" />
+</p>
 
-LOGIN = os.environ.get("GH_LOGIN", "joygoswaminiloy2023-droid")
-DAYS = 30
-OUT = os.environ.get("OUT", "assets/activity-graph.svg")
+<!-- Typing SVG -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00C9FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Joy+Goswami+Niloy;Full-Stack+MERN+Developer+%F0%9F%9A%80;Building+Scalable+Web+Applications;Modern+UI+%2B+Powerful+APIs;Turning+Ideas+Into+Reality+%F0%9F%92%A1" alt="Typing SVG" />
+</h1>
 
-QUERY = """
-query($login: String!, $from: DateTime!, $to: DateTime!) {
-  user(login: $login) {
-    contributionsCollection(from: $from, to: $to) {
-      contributionCalendar {
-        weeks { contributionDays { date contributionCount } }
-      }
-    }
-  }
-}
-"""
+<h4 align="center">✨ Full-stack magic with MongoDB, Express, React & Node.js — crafting seamless digital experiences. ✨</h4>
 
+<br/>
 
-def fetch_counts(token):
-    today = dt.datetime.now(dt.timezone.utc).date()
-    start = today - dt.timedelta(days=DAYS - 1)
-    payload = {
-        "query": QUERY,
-        "variables": {
-            "login": LOGIN,
-            "from": f"{start.isoformat()}T00:00:00Z",
-            "to": f"{today.isoformat()}T23:59:59Z",
-        },
-    }
-    req = urllib.request.Request(
-        "https://api.github.com/graphql",
-        data=json.dumps(payload).encode(),
-        headers={
-            "Authorization": f"bearer {token}",
-            "Content-Type": "application/json",
-            "User-Agent": "activity-graph-generator",
-        },
-    )
-    with urllib.request.urlopen(req, timeout=30) as r:
-        data = json.load(r)
-    if "errors" in data or not data.get("data", {}).get("user"):
-        raise SystemExit(f"GitHub API error: {data}")
+<!-- Coding GIF -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Animation" />
+</p>
 
-    by_date = {}
-    weeks = data["data"]["user"]["contributionsCollection"]["contributionCalendar"]["weeks"]
-    for w in weeks:
-        for d in w["contributionDays"]:
-            by_date[d["date"]] = d["contributionCount"]
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joygoswaminiloy2023-droid&label=Profile%20Views&color=00C9FF&style=for-the-badge" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/joygoswaminiloy2023-droid?label=Followers&style=for-the-badge&color=92FE9D&labelColor=0d1117" />
+</p>
 
-    days = [start + dt.timedelta(days=i) for i in range(DAYS)]
-    return [(d, by_date.get(d.isoformat(), 0)) for d in days]
+---
 
+## 🧑‍💻 About Me
 
-def render(points):
-    W, H = 900, 320
-    L, R, T, B = 55, 30, 70, 50
-    n = len(points)
-    counts = [c for _, c in points]
-    ymax = max(4, max(counts))
-    ymax = int(math.ceil(ymax / 4) * 4)
-    total = sum(counts)
+```javascript
+const joy = {
+  name: "Joy Goswami Niloy",
+  role: "MERN Stack Developer",
+  location: "Bangladesh 🇧🇩",
+  currentProject: "MediScan — AI-powered medical report insights",
+  learning: ["Machine Learning", "Deep Learning", "Next.js", "TypeScript"],
+  design: ["Tailwind CSS", "Framer Motion", "Figma"],
+  goal: "Contribute to impactful open-source MERN projects",
+  funFact: "Best code is readable, reusable & responsible 🎯"
+};
+```
 
-    def x(i):
-        return L + i * (W - L - R) / (n - 1)
+---
 
-    def y(v):
-        return T + (H - T - B) * (1 - v / ymax)
+## 🔥 What I'm Doing Now
 
-    coords = [(x(i), y(c)) for i, c in enumerate(counts)]
-    line = f"M{coords[0][0]:.1f},{coords[0][1]:.1f}"
-    for (px, py), (cx, cy) in zip(coords, coords[1:]):
-        mx = (px + cx) / 2
-        line += f" C{mx:.1f},{py:.1f} {mx:.1f},{cy:.1f} {cx:.1f},{cy:.1f}"
-    base = H - B
-    area = f"{line} L{coords[-1][0]:.1f},{base} L{coords[0][0]:.1f},{base} Z"
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="380" alt="Learning ML and DL" />
+</p>
 
-    grid = ""
-    for k in range(5):
-        v = ymax * k / 4
-        gy = y(v)
-        grid += (
-            f'<line x1="{L}" y1="{gy:.1f}" x2="{W - R}" y2="{gy:.1f}" stroke="#30363d" stroke-dasharray="4 4"/>'
-            f'<text x="{L - 10}" y="{gy + 4:.1f}" text-anchor="end" fill="#8b949e" font-size="11">{int(v)}</text>'
-        )
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=600&color=92FE9D&center=true&vCenter=true&width=700&lines=Right+now+I'm+learning+Machine+Learning+%F0%9F%A4%96;And+diving+deep+into+Deep+Learning+%F0%9F%A7%A0;Turning+data+into+intelligence+%E2%9C%A8" alt="Currently learning" />
+</h3>
 
-    labels = ""
-    for i, (d, _) in enumerate(points):
-        if i % 5 == 0 or i == n - 1:
-            labels += (
-                f'<text x="{x(i):.1f}" y="{H - B + 22}" text-anchor="middle" '
-                f'fill="#8b949e" font-size="11">{d.strftime("%b %d")}</text>'
-            )
+<p align="center">
+  🤖 <b>Machine Learning</b> &nbsp;|&nbsp; 🧠 <b>Deep Learning</b> &nbsp;|&nbsp; 🐍 <b>Python</b>
+</p>
 
-    dots = "".join(
-        f'<circle cx="{cx:.1f}" cy="{cy:.1f}" r="3.5" fill="#0d1117" stroke="#92FE9D" stroke-width="2"/>'
-        for cx, cy in coords
-    )
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Learning-00C9FF?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Deep%20Learning-Learning-92FE9D?style=for-the-badge&logo=tensorflow&logoColor=black" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Python-In%20Progress-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" font-family="'Segoe UI', Ubuntu, Arial, sans-serif">
-  <defs>
-    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#00C9FF"/><stop offset="100%" stop-color="#92FE9D"/>
-    </linearGradient>
-    <linearGradient id="fill" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#00C9FF" stop-opacity="0.35"/>
-      <stop offset="100%" stop-color="#92FE9D" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-  <rect width="{W}" height="{H}" rx="12" fill="#0d1117"/>
-  <text x="{L}" y="34" fill="#00C9FF" font-size="20" font-weight="700">{LOGIN}'s Contribution Graph</text>
-  <text x="{L}" y="54" fill="#8b949e" font-size="12">Last {DAYS} days · {total} contributions</text>
-  {grid}
-  <path d="{area}" fill="url(#fill)"/>
-  <path d="{line}" fill="none" stroke="url(#line)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  {dots}
-  {labels}
-</svg>
-"""
+<p align="center">
+  <i>Combining my MERN skills with AI to build smarter, data-driven applications 🚀</i>
+</p>
 
+---
 
-if __name__ == "__main__":
-    token = os.environ["GH_TOKEN"]
-    svg = render(fetch_counts(token))
-    os.makedirs(os.path.dirname(OUT), exist_ok=True)
-    with open(OUT, "w", encoding="utf-8") as f:
-        f.write(svg)
-    print(f"Wrote {OUT}")
+## 🚀 Current Activities
+
+| Activity | Technology |
+|----------|------------|
+| 🔭 Working on **MediScan** (AI medical insights) | MERN + AI APIs |
+| 🤖 Learning **Machine Learning & Deep Learning** | Python + TensorFlow |
+| 🌱 Deep diving into **Next.js** | Full-stack SSR |
+| ⚡ Building reusable component libraries | React + Storybook |
+| 💡 Optimizing API performance & caching | Node.js + Redis |
+| 🧪 Writing clean, testable code | Jest + React Testing Library |
+
+---
+
+## 🛠️ Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=js,nextjs,tailwind&theme=dark" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=java,php,py,tensorflow&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="./assets/joy-banner.svg" width="90%" alt="Joy Goswami Niloy" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<!-- Activity Graph (generated by GitHub Actions, no third-party host) -->
+<p align="center">
+  <img
+    src="./assets/activity-graph.svg"
+    width="90%"
+    alt="Activity Graph"
+  />
+</p>
+
+<!-- Streak Stats -->
+<p align="center">
+  <img
+    width="75%"
+    src="https://streak-stats.demolab.com?user=joygoswaminiloy2023-droid&theme=react-dark&hide_border=true&background=0d1117&ring=00C9FF&fire=92FE9D&currStreakNum=FF6B6B&currStreakLabel=00C9FF&sideNums=ffffff&sideLabels=92FE9D&dates=888888&v=2"
+    alt="GitHub Streak"
+  />
+</p>
+
+<!-- Metric Summary Table -->
+<div align="center">
+
+| 🏆 Metric | 📈 Value |
+|:---|:---:|
+| 👥 Followers | ![Followers](https://img.shields.io/github/followers/joygoswaminiloy2023-droid?style=flat) |
+| ⭐ Stars | ![Stars](https://img.shields.io/github/stars/joygoswaminiloy2023-droid?style=flat) |
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/joy-goswami" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://joy-of-development.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://discord.com/users/1410454355357859922" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/joy.goswami.365662" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧠 Fun Fact
+
+> 💡 *"When I'm not coding, I'm exploring new tech, contributing to open source, or designing UI in Figma.*
+> *I believe the best code is readable, reusable, and responsible."*
+
+---
+
+## 🙏 Thank You!
+
+<p align="center">
+  Thanks for stopping by! Always open to collaborations, tech talks, or just nerding out over JavaScript. <br/>
+  <strong>Let's build something amazing together — one commit at a time. 🚀</strong>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer" />
+</p>
