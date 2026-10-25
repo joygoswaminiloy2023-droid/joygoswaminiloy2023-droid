@@ -114,15 +114,6 @@ const joy = {
   />
 </p>
 
-<!-- Contribution Calendar (fallback, rarely rate-limited) -->
-<p align="center">
-  <img
-    width="90%"
-    src="https://ghchart.rshah.org/00C9FF/joygoswaminiloy2023-droid"
-    alt="Contribution Chart"
-  />
-</p>
-
 <!-- Metric Summary Table -->
 <div align="center">
 
