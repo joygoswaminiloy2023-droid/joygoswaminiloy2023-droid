@@ -273,9 +273,7 @@ An AI-focused healthcare project exploring symptom analysis, X-ray scanning, and
 
 <div align="center">
 
-<a href="https://github.com/joygoswaminiloy2023-droid">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=joygoswaminiloy2023-droid&theme=github-compact&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
-</a>
+<img width="95%" src="./assets/contribution-graph.svg" alt="GitHub contribution graph"/>
 
 </div>
 
